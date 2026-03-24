@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       VEX                                                       */
+/*    Author:       Juan & Fede                                               */
 /*    Created:      Thu Sep 26 2019                                           */
 /*    Description:  Competition Template                                      */
 /*                                                                            */
